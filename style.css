@@ -1,0 +1,42 @@
+body {
+    font-family: sans-serif
+}
+
+h1 {
+    color:purple;
+    font-family: fantasy;
+    font-size: 30px;
+}
+
+h3 {
+    text-decoration: underline;
+}
+
+ul {
+    list-style-type: none;
+}
+
+ol {
+    font-weight: bold;
+}
+
+
+
+li {
+    background-color: thistle;
+    border: 1px solid purple;
+    border-radius: 10px;
+    color: rebeccapurple;
+    padding-left: 30px;
+    text-align: center;
+}
+
+img {
+    display: block;
+    height: 200px;
+}
+
+p {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
